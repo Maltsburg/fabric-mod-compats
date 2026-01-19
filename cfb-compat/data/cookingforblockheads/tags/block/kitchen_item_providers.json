@@ -1,0 +1,55 @@
+{
+  "values": [
+    { "id": "#c:chests", "required": false },
+    { "id": "#c:barrels", "required": false },
+
+    { "id": "#mcwfurnitures:counter", "required": false },
+    { "id": "#mcwfurnitures:double_drawer_counter", "required": false },
+    { "id": "#mcwfurnitures:drawer_counter", "required": false },
+    { "id": "#mcwfurnitures:cupboard_counter", "required": false },
+
+    { "id": "#mcwfurnitures:double_wardrobe", "required": false },
+    { "id": "#mcwfurnitures:modern_wardrobe", "required": false },
+    { "id": "#mcwfurnitures:wardrobe", "required": false },
+
+    { "id": "#mcwfurnitures:kitchen_cabinet", "required": false },
+    { "id": "#mcwfurnitures:glass_kitchen_cabinet", "required": false },
+
+    { "id": "#mcwfurnitures:lower_bookshelf_drawer", "required": false },
+    { "id": "#mcwfurnitures:bookshelf_drawer", "required": false },
+  
+    { "id": "#mcwfurnitures:drawer", "required": false },
+    { "id": "#mcwfurnitures:large_drawer", "required": false },
+    { "id": "#mcwfurnitures:double_drawer", "required": false },
+    { "id": "#mcwfurnitures:triple_drawer", "required": false },
+    { "id": "#mcwfurnitures:lower_triple_drawer", "required": false },
+
+    { "id": "farmersdelight:bamboo_cabinet", "required": false },
+    { "id": "farmersdelight:oak_cabinet", "required": false },
+    { "id": "farmersdelight:birch_cabinet", "required": false },
+    { "id": "farmersdelight:spruce_cabinet", "required": false },
+    { "id": "farmersdelight:jungle_cabinet", "required": false },
+    { "id": "farmersdelight:acacia_cabinet", "required": false },
+    { "id": "farmersdelight:dark_oak_cabinet", "required": false },
+    { "id": "farmersdelight:mangrove_cabinet", "required": false },
+    { "id": "farmersdelight:cherry_cabinet", "required": false },
+    { "id": "farmersdelight:crimson_cabinet", "required": false },
+    { "id": "farmersdelight:warped_cabinet", "required": false },
+
+    { "id": "everycomp:fd/biomesoplenty/fir_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/pine_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/maple_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/redwood_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/mahogany_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/jacaranda_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/palm_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/willow_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/dead_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/magic_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/umbran_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/hellbark_cabinet", "required": false },
+    { "id": "everycomp:fd/biomesoplenty/empyreal_cabinet", "required": false },
+
+    { "id": "everycomp:fd/cobblemon/apricorn_cabinet", "required": false }
+  ]
+}

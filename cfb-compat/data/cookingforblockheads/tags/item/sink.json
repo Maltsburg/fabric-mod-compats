@@ -1,0 +1,9 @@
+{
+  "values": [
+    { "id": "#mcwfurnitures:kitchen_sink", "required": false },
+    { "id": "everycomp:mcfur/cobblemon/apricorn_kitchen__sink", "required": false },
+    { "id": "everycomp:mcfur/cobblemon/saccharine_kitchen__sink", "required": false },
+    { "id": "everycomp:mcfur/cobblemon/stripped_aricorn_kitchen__sink", "required": false },
+    { "id": "everycomp:mcfur/cobblemon/stripped_saccharine_kitchen__sink", "required": false }
+  ]
+}
