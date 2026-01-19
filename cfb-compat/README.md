@@ -2,8 +2,7 @@
 
 This datapack adds **Cooking for Blockheads** support for storage blocks from the following mods:
 
-- **Macaw’s Furniture**
-- **Biomes O’ Plenty**
+- **Macaw’s Furniture & Macaw’s Biomes O’ Plenty**
 - **Farmer’s Delight**
 - **Cobblemon**
 
